@@ -1,4 +1,4 @@
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/7daad7f4-415a-425a-8b79-8eb5feae5dac" /><img width="1600" height="728" alt="image" src="https://github.com/user-attachments/assets/469adae9-95d3-4ab9-8c56-e6d41e502e36" /># AgriDrone – Crop Monitoring and Leaf Fault Analysis
+# AI-BASED SMART AGRICULTURE DRONE FOR CROP HEALTH MONITORING
 
 ## About the Project
 AgriDrone is a group project that combines a DIY drone with a WiFi camera and a Python-based dashboard to support crop monitoring and leaf image analysis.
